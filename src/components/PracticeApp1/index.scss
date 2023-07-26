@@ -1,0 +1,31 @@
+// src/styles.scss
+.app-container {
+    margin: 50px;
+    text-align: center;
+  }
+  
+  .user-form {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    .ant-input {
+      width: 150px;
+      margin-right: 10px;
+    }
+  
+    .ant-btn {
+      width: 100px;
+    }
+  }
+  
+  .user-list {
+    max-width: 300px;
+    margin: 0 auto;
+  
+    .ant-btn {
+      margin-left: 5px;
+    }
+  }
+  
